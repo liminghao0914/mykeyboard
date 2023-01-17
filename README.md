@@ -1,4 +1,6 @@
 # mykeyboard
 TOFU_v2 keyboard settings
 
-## Layer 0
+## Settings
+
+DZ60 supports VIA to change the keymap. Just visit the [website](https://www.caniusevia.com/).
